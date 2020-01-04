@@ -13,13 +13,16 @@ html {
   -webkit-text-size-adjust: 100%
 }
 
+.right{
+  float: right!important;
+}
+
 body {
   margin: 0
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
-  display: block
-
+  display: block;  /* Characteristics of block, but sits on a line */
 }
 
 audio, canvas, progress, video {
@@ -400,14 +403,16 @@ hr {
 
 .h1, h1 {
   font-size: 40px;
+   font-weight: bold;
 }
 
 .h2, h2 {
-  font-size: 30px
+  font-size: 30px;
 }
 
 .h3, h3 {
-  font-size: 15px
+  font-size: 15px;
+  font-weight: bold;
 }
 
 .h4, .h5, h4, h5 {
@@ -652,7 +657,7 @@ blockquote ol:last-child, blockquote p:last-child, blockquote ul:last-child {
 blockquote .small, blockquote footer, blockquote small {
   display: block;
   font-size: 80%;
-  line-height: 1.78;
+  line-height: 1;
   color: #777
 }
 
@@ -5192,5 +5197,4 @@ textarea {
   float: left;
   margin-right: 5px
 }
-
 /*# sourceMappingURL=main.70a66962.map*/
