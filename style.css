@@ -406,11 +406,11 @@ span.middot {
 }
 
 .bgcolor,
-.bgcolor #header-wrap { background-color: #1ABC9C !important; }
+.bgcolor #header-wrap { background-color: #14141f !important; }
 
-.color { color: #1ABC9C !important; }
+.color { color: #14141f !important; }
 
-.border-color { border-color: #1ABC9C !important; }
+.border-color { border-color: #14141f !important; }
 
 .nobg { background: none !important; }
 
@@ -2216,7 +2216,7 @@ body.top-search-open #top-account { opacity: 0; }
 
 #page-menu-wrap {
 	z-index: 99;
-	background-color: #1ABC9C;
+	background-color: #403F3F;
 	-webkit-transform: translate3d(0,0,0);
 	-ms-transform: translate3d(0,0,0);
 	-o-transform: translate3d(0,0,0);
