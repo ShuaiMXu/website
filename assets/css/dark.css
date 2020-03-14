@@ -1675,7 +1675,7 @@ body #side-panel.dark #side-panel-trigger-close a {
 	body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > ul > li:hover a,
 	body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > ul > li.current a,
 	body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > div > ul > li:hover a,
-	body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > div > ul > li.current a { color: #1ABC9C !important; }
+	body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > div > ul > li.current a { color: #403F3F !important; }
 
 	body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu ul ul a,
 	body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > ul > li:hover ul a,
@@ -1686,4 +1686,3 @@ body #side-panel.dark #side-panel-trigger-close a {
 	.dark .pricing-box.pricing-extended .pricing-action-area { border-top-color: rgba(255,255,255,0.15); }
 
 }
-
